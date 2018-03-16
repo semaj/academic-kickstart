@@ -5,7 +5,7 @@ name = "Classic"
 google_fonts = "Lato:400,700|Oxygen|Roboto+Condensed|Roboto+Mono"
 
 # Font families
-heading_font = "Roboto+Condensed"
+heading_font = "Roboto Condensed"
 body_font = "Oxygen"
 nav_font = "Lato"
 mono_font = "Roboto Mono"
